@@ -1,2 +1,2 @@
-web: "start": "node index.php"
+web: start: tastiera.php
 
